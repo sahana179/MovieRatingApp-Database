@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "62d405c3caf82f1ef0360670"
+  },
+  "title": "36 Farmhouse",
+  "category": "Drama",
+  "movieDirector": "Ram Ramesh Sharma",
+  "releaseDate": "21/01/2022",
+  "__v": 0,
+  "averageRating": 4.666666666666667
+},{
+  "_id": {
+    "$oid": "62d4061bcaf82f1ef0360671"
+  },
+  "title": "Cobalt Blue",
+  "category": "Drama",
+  "movieDirector": "Sachin Kundalkar",
+  "releaseDate": "2/01/2022",
+  "__v": 0,
+  "averageRating": 2
+},{
+  "_id": {
+    "$oid": "62d40639caf82f1ef0360672"
+  },
+  "title": "Jersey",
+  "category": "Drama",
+  "movieDirector": "Gowtam Tinnanuri",
+  "releaseDate": "22/01/2022",
+  "__v": 0,
+  "averageRating": 5
+},{
+  "_id": {
+    "$oid": "62d4065ccaf82f1ef0360673"
+  },
+  "title": "Runway 34",
+  "category": "Drama",
+  "movieDirector": "Ajay Devgn",
+  "releaseDate": "29/01/2022",
+  "__v": 0,
+  "averageRating": 1
+},{
+  "_id": {
+    "$oid": "62d6430f1307ab34147487c4"
+  },
+  "title": "Runway 14",
+  "category": "Drama",
+  "movieDirector": "Ajay Devgn",
+  "releaseDate": "29/01/2022",
+  "__v": 0,
+  "averageRating": 4
+}]
